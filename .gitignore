@@ -1,4 +1,2 @@
-# Temporarily ignore subject folders until they're added as submodules
-Ciencia_Analitica_Datos/
-Visualizacion_Datos/
+# Submodules are tracked by Git, so no need to ignore them
 
