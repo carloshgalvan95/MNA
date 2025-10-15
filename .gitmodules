@@ -1,6 +1,8 @@
 [submodule "Ciencia_Analitica_Datos"]
 	path = Ciencia_Analitica_Datos
 	url = https://github.com/carloshgalvan95/Ciencia_Analitica_Datos.git
+	branch = main
 [submodule "Visualizacion_Datos"]
 	path = Visualizacion_Datos
 	url = https://github.com/carloshgalvan95/Visualizacion_Datos.git
+	branch = main
