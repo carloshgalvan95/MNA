@@ -6,3 +6,7 @@
 	path = Visualizacion_Datos
 	url = https://github.com/carloshgalvan95/Visualizacion_Datos.git
 	branch = main
+[submodule "IA_ML"]
+	path = IA_ML
+	url = https://github.com/carloshgalvan95/IA_ML.git
+	branch = main
