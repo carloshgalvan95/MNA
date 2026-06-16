@@ -10,3 +10,11 @@
 	path = IA_ML
 	url = https://github.com/carloshgalvan95/IA_ML.git
 	branch = main
+[submodule "NLP"]
+	path = NLP
+	url = https://github.com/carloshgalvan95/NLP.git
+	branch = main
+[submodule "Big_Data"]
+	path = Big_Data
+	url = https://github.com/carloshgalvan95/Big_Data.git
+	branch = main
