@@ -18,3 +18,11 @@
 	path = Big_Data
 	url = https://github.com/carloshgalvan95/Big_Data.git
 	branch = main
+[submodule "MLOps"]
+	path = MLOps
+	url = https://github.com/carloshgalvan95/MLOps.git
+	branch = main
+[submodule "Software_Development"]
+	path = Software_Development
+	url = https://github.com/carloshgalvan95/Software_Development.git
+	branch = main
