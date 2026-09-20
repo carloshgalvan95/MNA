@@ -1,6 +1,7 @@
 # Submodules are tracked by Git, so no need to ignore them
 
 # Local/generated artifacts that do not belong in the parent repo
+Wizeline_Test/
 models/
 *.zip
 .DS_Store
